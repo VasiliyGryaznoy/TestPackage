@@ -11,6 +11,8 @@
         "php": ">=5.6.4"
     },
     "autoload": {
-        "Gryaznoy\\": "src/Gryaznoy/"
+        "psr-4": {
+            "Gryaznoy\\": "src/Gryaznoy/"
+        }
     }
 }
