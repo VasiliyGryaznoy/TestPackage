@@ -1,0 +1,16 @@
+{
+    "name": "vasiliy/gryaznoy",
+    "description": "This is my best test package",
+    "authors": [
+        {
+            "name": "Gryaznoy Vasiliy",
+            "email": "vasja930403@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "Gryaznoy\\": "src/"
+    }
+}
