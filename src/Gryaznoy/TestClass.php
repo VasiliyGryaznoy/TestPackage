@@ -6,6 +6,6 @@ class TestClass
 {
     public function test()
     {
-        return self::class;
+        return self::class . ' autoupdate';
     }
 }
