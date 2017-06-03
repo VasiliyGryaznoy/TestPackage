@@ -1,6 +1,7 @@
 {
     "name": "vasiliy/gryaznoy",
     "description": "This is my best test package",
+    "license": "TestLicense",
     "authors": [
         {
             "name": "Gryaznoy Vasiliy",
